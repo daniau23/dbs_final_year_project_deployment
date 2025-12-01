@@ -91,7 +91,7 @@ raw_example_text = """
 The keys keep failing to click when tapped/punched. I hate this product. 
 WHy THE HECK DID I PURCHASE IT!!!!!!!!!!
 """
-st.header(":red[This app classifies your text as] :orange[white], :green[headphones] or :blue[keyboard_speakers] :violet[in]",divider="white")
+st.header(":red[This app classifies your text as] :orange[white], :green[headphones] or :blue[keyboard_speakers]")
 
 txt = st.text_input("Text to classify",
                     raw_example_text,

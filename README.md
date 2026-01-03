@@ -8,3 +8,6 @@ In regard to Model Deployment, the project is structured as follows;
 - tokeniser.pkl for BiLSTM
 -**requirements:** The text file needed requirements for the project to be deployed
 - **main_app:**  The Python code of the Streamlit app’s deployment.
+
+## Deployed App
+[Streamlit App](https://ecommerce-text-classification-project.streamlit.app/)
